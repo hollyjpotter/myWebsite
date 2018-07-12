@@ -1,0 +1,9 @@
+body {
+  background: url("https://vignette.wikia.nocookie.net/animal-jam-roleplay/images/b/b2/587d35135ccacf032da6fbff.png/revision/latest?cb=20180309213014")
+    no-repeat center fixed;
+      background-size: cover;
+}
+.boxed {
+  border: 1px solid #cee1ff ;
+}
+font-style: normal
